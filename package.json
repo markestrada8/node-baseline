@@ -1,0 +1,23 @@
+{
+  "name": "section-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markestrada8/node-baseline.git"
+  },
+  "author": "Mark Estrada <markestrada8@gmail.com> (https://www.npmjs.com/settings/markestrada8/profile)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markestrada8/node-baseline/issues"
+  },
+  "homepage": "https://github.com/markestrada8/node-baseline#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
